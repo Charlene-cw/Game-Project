@@ -1,5 +1,5 @@
 # Game-Project
-This is a game coded with JavaScript
+An interactive game developed using JavaScript.
 
 During the development of my game, I implemented several extensions to enhance the overall gameplay experience. One key addition was the platform system, allowing the game character to interact with floating platforms. I also introduced sound effects, including background music and audio cues for jumping, collecting items, and falling into canyons to create a more
 immersive experience. Additionally, I refined the enemy mechanics by using constructor functions, allowing for dynamic and reusable enemy behavior that makes the game more challenging and engaging.
